@@ -1,8 +1,9 @@
-{
-  "name": "PhlexEview3.Web",
-  "version": "5.0.0",
+{  
+"version": "5.0.0",
   "description": "PhlexEview Web",
   "dependencies": {
-        "node-uuid": "1.4.3"
+    "core": "file:./Scripts/Custom/Core",
+    "normal-dep": "file:./Scripts/Custom/normal-dep",
+    "noVersion": "file:./Scripts/Custom/noVersion"
   }
 }
