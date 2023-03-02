@@ -3,8 +3,6 @@
   "version": "5.0.0",
   "description": "PhlexEview Web",
   "dependencies": {
-    "core": "file:./Scripts/Custom/Core",
-    "normal-dep": "file:./Scripts/Custom/normal-dep",
-    "noVersion": "file:./Scripts/Custom/noVersion"
+        "node-uuid": "1.4.3"
   }
 }
